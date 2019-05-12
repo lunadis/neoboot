@@ -1,9 +1,8 @@
 # neoboot
-![Logo]([https://raw.githubusercontent.com/lunadis/neoboot/master/imgs/download.png](https://raw.githubusercontent.com/lunadis/neoboot/master/imgs/download.png)) 
+![Logo](imgs/download.png) 
 
-![Robot]([https://raw.githubusercontent.com/lunadis/neoboot/master/imgs/robot.jpg](https://raw.githubusercontent.com/lunadis/neoboot/master/imgs/robot.jpg))
 
-Is a boot for Neobux p-t-c
+Is a boot for Neobux p-t-c ![Logo](imgs/Robot.png)
 
 Para esse projeto é proposto um boot completo para que não seja preciso a interação diária com o site que oferece meios de receber por visualização de anúncios e clicks.
 
